@@ -1,1 +1,1 @@
-# zibra-ai
+# webpack-template
